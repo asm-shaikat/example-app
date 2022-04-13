@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h2>Welcome to FireBase</h2>
+    <h2>Welcome to Laravel-Heroku</h2>
 </body>
 </html>
